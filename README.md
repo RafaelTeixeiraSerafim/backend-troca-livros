@@ -9,7 +9,7 @@ Troca de livros no ambiente universitário, incentivando a circulação de exemp
 ## Integrantes
 
 - Rafael Teixeira Serafim
-- Maria Joana Apolinário Ceron
+- Maria Joana Apolinario Ceron
 - Gabriel Bada
 
 ## Problemas
